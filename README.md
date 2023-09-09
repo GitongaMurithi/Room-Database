@@ -14,7 +14,7 @@ The app uses the following technologies:
 * [XML](https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts#0) for UI development
 
 ## Architecture
-The app adheres to MVVM - Model View View Model - architecture
+The app adheres to MVVM - Model View View Model - architecture.
 
 ### Give it a star if you have liked it
 ***
