@@ -19,3 +19,4 @@ The app adheres to MVVM - Model View View Model - architecture
 ## Screenshots
 
 ### Light Mode
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(54).png)
