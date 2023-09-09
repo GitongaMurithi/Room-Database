@@ -16,7 +16,7 @@ The app uses the following technologies:
 ## Architecture
 The app adheres to MVVM - Model View View Model - architecture
 
-###Give it a star if you have liked it
+### Give it a star if you have liked it
 ***
 ## Screenshots
 
