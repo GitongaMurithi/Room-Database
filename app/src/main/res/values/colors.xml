@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="random1">#CCFF11</color>
+    <color name="random2">#00BCDE</color>
+    <color name="random3">#BB00FF</color>
+    <color name="random4">#411101</color>
+    <color name="random5">#CCFF11</color>
+</resources>
