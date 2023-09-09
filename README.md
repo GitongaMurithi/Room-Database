@@ -16,7 +16,17 @@ The app uses the following technologies:
 ## Architecture
 The app adheres to MVVM - Model View View Model - architecture
 
+###Give it a star if you have liked it
+***
 ## Screenshots
 
 ### Light Mode
 ![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(54).png)
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(55).png)
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(56).png)
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(57).png)
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(58).png)
+
+### Dark Mode
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(59).png)
+![](https://github.com/GitongaMurithi/Room-Database/blob/main/app/src/main/java/com/example/login/screenshots/Screenshot%20(60).png)
